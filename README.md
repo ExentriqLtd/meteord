@@ -1,3 +1,6 @@
+## [DEPRECATED] - we are about to use "cb_docker" repo instead. Once that's finished and used the current repo can be deleted
+
+
 [![Circle CI](https://circleci.com/gh/abernix/meteord/tree/master.svg?style=svg)](https://circleci.com/gh/abernix/meteord/tree/master)
 
 > ###Use [kadirahq/meteord](https://github.com/kadirahq/meteord) for meteor 1.4 and above. 
